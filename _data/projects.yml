@@ -2,22 +2,38 @@ intro: "You can list your side projects or open source libraries in this section
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
+    title: Phish Armor
+    link: "https://github.com/starlordphr/PhishArmor"
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
   - project:
-    title: DevStudio
+    title: Automated NFV Deployment
     link: "#"
     tagline: "A responsive website template designed to help web developers/designers market their services."
   - project:
-    title: Tempo
+    title: Secure Code Analysis
     link: "#"
     tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
   - project:
-    title: Atom
+    title: Location Stream Privacy
+    link: "#"
+    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - project:
+    title: Application for Preventing Runtime Information Gathering on Android OS
+    link: "#"
+    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - project:
+    title: Machine Learning for Cancer Treatment Prediction
     link: "#"
     tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
   - project:
-    title: Delta
+    title: Software Development for Personal Cloud File Sync
+    link: "#"
+    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - project:
+    title: Design and Development of ASCII Transliteration Format (ATF) Parser
+    link: "#"
+    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - project:
+    title: Development of Android Application for CDLI Lab
     link: "#"
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
