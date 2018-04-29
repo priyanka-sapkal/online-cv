@@ -1,24 +1,15 @@
 - education:
   degree: PhD in Computer Science
-  university: New York University
+  university: New York University, USA
   time: 2017 - Present
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  details: "Lab: Modern Microprocessor Architectures, Advisor: Prof. Michail Maniatakos"
 - education:
   degree: MS in Computer Science
-  university: University of California Los Angeles
+  university: University of California Los Angeles, USA
   time: 2016 - 2017
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  details: "Lab: Cuneiform Digital Library Initiative, Advisor: Prof. Rafail Ostrovsky, Thesis Topic: Phish Armor - This Fish Won't Bite"
 - education:
   degree: BE in Computer Engineering
-  university: Savitribai Phule Pune University
+  university: Savitribai Phule Pune University, India
   time: 2012 - 2016
-  details: "Describe your study here lorem ipsum dolor sit amet,NYU consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  details: "Advisor: Prof. Pravin Futane, Project Topic: Defender - Application Level Protection Against Runtime Information Gathering, College: Sinhgad College of Engineering"
