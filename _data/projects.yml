@@ -3,7 +3,7 @@ intro: "You can list your side projects or open source libraries in this section
 projects:
   - project:
     title: Phish Armor
-    link: "https://github.com/starlordphr/PhishArmor"
+    link: "#https://github.com/starlordphr/PhishArmor"
     tagline: "<ul style="list-style-type:disc">
     <li>Proposed and developed a metadata based approach for defending against email spear phishing attack.</li>
     <li>Extended Levenshtein Distance and MySQL queries for identifying suspicious emails.</li>
