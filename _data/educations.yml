@@ -1,16 +1,24 @@
 - education:
-  degree: MSc in Computer Science
-  university: University of London
-  time: 2011 - 2012
+  degree: PhD in Computer Science
+  university: New York University
+  time: 2017 - Present
+  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
+  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
+  pellentesque eu, pretium quis, sem."
+ - education:
+  degree: MS in Computer Science
+  university: University of California Los Angeles
+  time: 2016 - 2017
   details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
   pellentesque eu, pretium quis, sem."
 - education:
-  degree: BSc in Applied Mathematics
-  university: Bristol University
-  time: 2007 - 2011
-  details: "Describe your study here lorem ipsum dolor sit amet, consectetuer adipiscing
+  degree: BE in Computer Engineering
+  university: Savitribai Phule Pune University
+  time: 2012 - 2016
+  details: "Describe your study here lorem ipsum dolor sit amet,NYU consectetuer adipiscing
   elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
   pellentesque eu, pretium quis, sem."
