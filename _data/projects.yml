@@ -24,7 +24,7 @@ projects:
     tagline: "<ul style='list-style-type:disc'>
     <li>Designed and implemented 3 new Runtime Information Gathering (RIG) attacks targeting Android OS.</li>
     <li>Implemented a solution for each RIG attack using behavior - based malicious application detection system.</li>
-    <li>Optimised the solution by 85\% for better performance using multithreading in Java.</li>
+    <li>Optimised the solution by 85% for better performance using multithreading in Java.</li>
     </ul>"
   - project:
     title: Hospital Recommendation System
