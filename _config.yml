@@ -10,12 +10,12 @@ about: False # set to False or comment line if you want to remove the "How to us
 #style: styles-3
 #style: styles-4
 #style: styles-5
-style: styles-6
+#style: styles-6
 
 
 #Profile information
-name: Prashant Rajput
-tagline: PhD Candidate
+name: Priyanka Sapkal
+tagline: Graduate Student
 pic: profile_pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
@@ -26,11 +26,11 @@ awards: True
 #sidebar links
 email: prashanthrajput@nyu.edu
 #phone: 012 345 6789
-website: rajputonsecurity.com #do not add http://
-linkedin: prashanthrajput
-github: starlordphr
-facebook: prashanthrajput
-twitter: '@starlordphr'
+#website: rajputonsecurity.com #do not add http://
+linkedin: priyankasapkal
+github: priyanka-sapkal
+facebook: priyanka.sapkal.378
+#twitter: '@starlordphr'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
