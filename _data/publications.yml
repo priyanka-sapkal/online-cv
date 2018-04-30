@@ -2,9 +2,11 @@ intro: "My research interest primarily lies in the field of Cyber Security and M
 publications:
   - paper:
     title: "Phish Muzzle: This Fish Won't Bite"
+    link: "#"
     authors: Rajput P.
     conference: Masters Thesis, UCLA
   - paper:
     title: "Box Office Revenue Prediction Using Dual Sentiment Analysis"
+    link: "#"
     authors: Rajput P., Sapkal P., Sinha S.
     conference: "International Journal of Machine Learning and Computing, Vol. 7, No. 4, August 2017"
