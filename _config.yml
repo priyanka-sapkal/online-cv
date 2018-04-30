@@ -1,6 +1,6 @@
 # Site Settings
 title: My Profile
-url: 'http://priyankasapkal.com'
+url: 'priyankasapkal.com'
 baseurl: '/online-cv' #change it according to your repository name
 about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
 
