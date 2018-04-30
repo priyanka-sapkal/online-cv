@@ -1,5 +1,5 @@
-intro: "My projects are focused on solving critical problems in Cyber Security, 
-applications of Machine Learning in interdisciplinary fields, Cloud Computing and Digital Humanities."
+intro: "My projects are mainly focused on solving critical real world problems as an 
+application of Machine Learning in interdisciplinary fields."
 projects:
   - project:
     title: Machine Learning for Cancer Treatment Prediction
