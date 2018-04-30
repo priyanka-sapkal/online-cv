@@ -1,5 +1,4 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "My projects are focused on solving critical problems in Cyber Security, Cancer research, Cloud Computing and Digital Humanities."
 projects:
   - project:
     title: Phish Armor
