@@ -3,15 +3,13 @@
 
   <h2 class="section-title"><i class="fa fa-trophy"></i>Awards</h2>
   
-  <ul style='list-style-type:disc'>
   {% for award in site.data.awards %}
     <div class="item">
       {% if award.description %}
-        <span class="project-tagline"><li>{{ award.description }}</li></span>
+        <span class="project-tagline">{{ award.description }}</li></span>
       {% endif %}
     </div><!--//item-->
   {% endfor %}
-  </ul>
 
 </section><!--//section-->
 {% endif %}
