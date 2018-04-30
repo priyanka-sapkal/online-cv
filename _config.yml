@@ -17,10 +17,11 @@ about: False # set to False or comment line if you want to remove the "How to us
 name: Priyanka Sapkal
 tagline: Graduate Student
 pic: profile_pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: "Hello! I'm Priyanka Sapkal, a graduate student in the Computer Engineering department at NYU. I'm always looking for 
+opportunities to collaborate and work in the field of Machine Learning. I'm motivated to solve real world problems by using Machine 
+Learning and I truely believe that in the future, Machine Learning will be encorporated in major modern applications.<br />
+Feel free to contact me if you would want to have a discussion with me. Click 
+<a href="https://github.com/priyanka-sapkal/online-cv/raw/master/assets/resume/priyanka_resume.pdf" download="Priyanka_Sapkal_Resume">here</a> to download a pdf version of my resume."
 awards: True
 
 #sidebar links
