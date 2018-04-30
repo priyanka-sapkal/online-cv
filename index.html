@@ -15,7 +15,9 @@ layout: default
             
 {% include publications.html %}
             
-{% include awards.html %}
+{% if site.awards %}
+    {% include awards.html %}
+  {% endif %}
 
 {% include skills.html %}
 
