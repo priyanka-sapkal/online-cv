@@ -1,15 +1,18 @@
 - skill:
   name: Python
-  level: 90%
-- skill:
-  name: Java
   level: 85%
 - skill:
+  name: Java
+  level: 95%
+- skill:
   name: C++
-  level: 84%
-- skill:
-  name: JavaScript, HTML5, CSS & PHP
   level: 80%
 - skill:
-  name: Assembly Language (NASM)
-  level: 80%
+  name: HTML5, CSS & PHP
+  level: 87%
+- skill:
+  name: JavaScript, JSP, AngularJS & Jquery
+  level: 87%
+- skill:
+  name: Apex & VisualForce
+  level: 95%
