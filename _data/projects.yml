@@ -14,7 +14,7 @@ projects:
     link: "https://github.com/starlordphr/Automated_NFV_Deployment"
     tagline: "<ul style='list-style-type:disc'>
     <li>Developed a command line tool to automatically deploy OAI components using OpenStack.</li>
-    <li>Implemented automated scripts for OAI configuration based on user specified modular SLA file.</li>
+    <li>Implemented automated scripts for OAI configuration based on user specified modular SLA files.</li>
     <li>Introduced simple interactive functionality to deploy, delete and check status of the spawned VMs.</li>
     </ul>"
   - project:
