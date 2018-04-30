@@ -1,15 +1,10 @@
 - education:
-  degree: PhD in Computer Science
+  degree: MS in Computer Engineering
   university: New York University, USA
   time: 2018 - Present
-  details: "Lab: Modern Microprocessor Architectures, Advisor: Prof. Michail Maniatakos"
-- education:
-  degree: MS in Computer Science
-  university: University of California Los Angeles, USA
-  time: 2016 - 2017
-  details: "Lab: Cuneiform Digital Library Initiative, Advisor: Prof. Rafail Ostrovsky, Thesis Topic: Phish Armor - This Fish Won't Bite"
+  details: ""
 - education:
   degree: BE in Computer Engineering
   university: Savitribai Phule Pune University, India
   time: 2012 - 2016
-  details: "Advisor: Prof. Pravin Futane, Project Topic: Defender - Application Level Protection Against Runtime Information Gathering, College: Sinhgad College of Engineering"
+  details: "Advisor: Prof. Deepali Gatade, Project Topic: Box Office Revenue Prediction Using Dual Sentiment Analysis, College: Sinhgad College of Engineering"
