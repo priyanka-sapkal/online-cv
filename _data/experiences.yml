@@ -1,30 +1,12 @@
 - experience:
-  role: Research Assistant
-  time: Dec 2017 - Present
-  company: Center for Cyber Security (NYUAD), Abu Dhabi
+  role: Software Engineer
+  time: July 2016 - Present
+  company: Persistent Systems, Pune
   details: "<ul style='list-style-type:disc'>
-  <li>Performed process aware security assessment of desalination plants to determine attack entry points.</li>
-  <li>Designed attack vectors while systematically categorizing the attacks and estimated corresponding financial loss.</li>
-  <li>Analyzing JTAG for detecting malwares in Linux based operating systems running on Programmable Logic Controllers (PLCs).</li>
+  <li>Developed enhancements using Apex and VisualForce for Bajaj Finserv, financial service.</li>
+  <li>Optimized code base to improve code quality by 72%.</li>
+  <li>Implemented 3 major Proof of Concepts (POC) using Salesforce Lightning.</li>
+  <li>Designed use cases and implemented test classes for corresponding apex classes.</li>
+  <li>Assisted in production deployments of enhancements using Salesforce and Apache ANT.</li>
   </ul>
   "
-- experience:
-  role: Cyber Security Intern
-  time: April 2017 - Dec 2017
-  company: Ariento, Los Angeles
-  details: "<ul style='list-style-type:disc'>
-  <li>Customized and operated network security monitoring infrastructure with Amazon Web Services (AWS).</li>
-  <li>Performed security assessments and analysis using Security Onion to address client vulnerabilities.</li>
-  <li>Implemented new rules in OSSEC and Snort to detect suspicious behavior on client machines and networks.</li>
-  <li>Conducted penetration testing (ethical hacking) on client companies using Kali Linux.</li>
-  </ul>
-  "
-- experience:
-  role: Graduate Student Researcher
-  time: Sept 2016 - Dec 2017
-  company: Cuneiform Digital Library Initiative (UCLA), Los Angeles
-  details: "<ul style='list-style-type:disc'>
-  <li>Develop digital library of cuneiform tablets to aid in the preservation and study of ancient languages by coordinating with University of Oxford, Max Planck Institute and UCLA.</li>
-  <li>Monitor performance & upgrade website by updating content and identifying and evaluating opportunities for improving site security.</li>
-  <li>Maintain & improve back-end organization of data and front-end accessibility for end-users.</li>
-  </ul>"
