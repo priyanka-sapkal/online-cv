@@ -1,6 +1,16 @@
 - experience:
+  role: Graduate Assistant
+  time: September 2018 - Present
+  company: Smart Energy Research Group (SEARCH), New York
+  details: "<ul style='list-style-type:disc'>
+  <li>Developed Peer-to-Peer optimization problem using MATLAB.</li>
+  <li>Implemented exogenous grid cost allocation policies and studied their effects on Peer-to-Peer electricity market.</li>
+  <li>Analyzing current energy distribution infrastructure between producers and consumers.</li>
+  <li>Optimizing Peer-to-Peer energy distribution and grid cost allocation using reinforcement learning.</li>
+  </ul>
+  
   role: Software Engineer
-  time: July 2016 - Present
+  time: July 2016 - June 2018
   company: Persistent Systems, Pune
   details: "<ul style='list-style-type:disc'>
   <li>Developed enhancements using Apex and VisualForce for Bajaj Finserv, financial service.</li>
