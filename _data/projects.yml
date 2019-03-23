@@ -3,7 +3,7 @@ application of Machine Learning in interdisciplinary fields."
 projects:
   - project:
     title: Machine Learning for Cancer Treatment Prediction
-    link: "https://github.com/starlordphr/Cancer_Treatment_Prediction"
+    link: "https://github.com/priyanka-sapkal/Cancer_Treatment_Prediction"
     tagline: "<ul style='list-style-type:disc'>
     <li>Proposed a novel technique using clinical data for predicting best treatment option for cancer patients.</li>
     <li>Implemented multiple machine learning techniques using TensorFlow and scikit library in Python.</li>
@@ -20,7 +20,7 @@ projects:
     </ul>"
   - project:
     title: Application for Preventing Runtime Information Gathering on Android OS
-    link: "https://github.com/starlordphr/Defender-RIG-Prevention"
+    link: "https://github.com/priyanka-sapkal/Defender-RIG-Prevention"
     tagline: "<ul style='list-style-type:disc'>
     <li>Designed and implemented 3 new Runtime Information Gathering (RIG) attacks targeting Android OS.</li>
     <li>Implemented a solution for each RIG attack using behavior - based malicious application detection system.</li>
