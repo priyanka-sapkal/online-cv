@@ -8,7 +8,7 @@ projects:
     tagline: "<ul style='list-style-type:disc'>
     <li>Analyzed current intrusion detection systems and their shortcomings.</li>
     <li>Implemented Logistic Regression using sklearn, Neural Network and Convolutional Neural Network using TensorFlow for intrusion detection.</li>
-    <li>Obtained an accuracy of 85\% to detect known and unknown attacks under 4 major categories of network attacks.</li>
+    <li>Obtained an accuracy of 85% to detect known and unknown attacks under 4 major categories of network attacks.</li>
     </ul>"
   - project:
     title: Wearable Air Guitar
