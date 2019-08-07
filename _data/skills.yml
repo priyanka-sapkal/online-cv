@@ -2,11 +2,11 @@
   name: Python
   level: 90%
 - skill:
-  name: Java
-  level: 75%
-- skill:
   name: C++
   level: 85%
+- skill:
+  name: Java
+  level: 75%
 - skill:
   name: HTML5, CSS & PHP
   level: 80%
