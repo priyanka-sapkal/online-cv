@@ -1,12 +1,12 @@
 - skill:
   name: Python
-  level: 85%
+  level: 90%
 - skill:
   name: Java
-  level: 95%
+  level: 75%
 - skill:
   name: C++
-  level: 80%
+  level: 85%
 - skill:
   name: HTML5, CSS & PHP
   level: 80%
@@ -15,4 +15,4 @@
   level: 80%
 - skill:
   name: Apex & VisualForce
-  level: 95%
+  level: 90%
