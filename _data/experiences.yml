@@ -16,8 +16,9 @@
   details: "<ul style='list-style-type:disc'>
   <li>Developed Peer-to-Peer optimization problem using MATLAB.</li>
   <li>Implemented exogenous grid cost allocation policies and studied their effects on Peer-to-Peer electricity market.</li>
-  <li>Analyzing current energy distribution infrastructure between producers and consumers.</li>
-  <li>Optimizing Peer-to-Peer energy distribution and grid cost allocation using reinforcement learning.</li>
+  <li>Implemented load forecasting to predict smart grid power congestion using Logistic Regression and Neural Networks in python.</li>
+  <li>Obtained an accuracy of 90\% in predicting the load on hourly basis.</li>
+  <li>Improved grid cost policies to circumvent predicted power congestion.</li>
   </ul>
   "
 - experience:
