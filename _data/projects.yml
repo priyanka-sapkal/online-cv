@@ -1,6 +1,21 @@
 intro: "My projects are mainly focused on solving critical real world problems as an 
 application of Machine Learning in interdisciplinary fields."
 projects:
+
+  - project:
+    title: Machine Learning for Intrusion Detection
+    link: "https://github.com/priyanka-sapkal/Intrusion_Detection"
+    tagline: "<ul style='list-style-type:disc'>
+    <li>Analyzed current intrusion detection systems and their shortcomings.</li>
+    <li>Implemented Logistic Regression using sklearn, Neural Network and Convolutional Neural Network using TensorFlow for intrusion detection.</li>
+    <li>Obtained an accuracy of 85\% to detect known and unknown attacks under 4 major categories of network attacks.</li>
+    </ul>"
+  - project:
+    title: Wearable Air Guitar
+    tagline: "<ul style='list-style-type:disc'>
+    <li>Developed a wearable air guitar to play 4 chords using Teensy 3.2 microcontroller, Teensy Audio Shield and ADXL343 Triple Axis Accelerometer.</li>
+    <li>Programmed the microcontroller to play the chords using Arduino IDE in C++.</li>
+    </ul>"
   - project:
     title: Machine Learning for Cancer Treatment Prediction
     link: "https://github.com/priyanka-sapkal/Cancer_Treatment_Prediction"
