@@ -1,6 +1,17 @@
 - experience:
+  role: Data Engineer Intern
+  time: June 2019 - Present
+  company: NYU Information Technology, New York
+  details: "<ul style='list-style-type:disc'>
+  <li>Implemented web data connectors to integrate external systems using REST APIs and developed visualizations in Tableau Desktop.</li>
+  <li>Developed internal website for Enterprise Data Management using HTML, Javascript, CSS and Bootstrap.</li>
+  <li>Performed project management using GitLab and Jira.</li>
+  </ul>
+  "
+
+- experience:
   role: Graduate Assistant
-  time: September 2018 - Present
+  time: September 2018 - May 2019
   company: Smart Energy Research Group (SEARCH), New York
   details: "<ul style='list-style-type:disc'>
   <li>Developed Peer-to-Peer optimization problem using MATLAB.</li>
