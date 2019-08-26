@@ -17,10 +17,8 @@ about: False # set to False or comment line if you want to remove the "How to us
 name: Priyanka Sapkal
 tagline: Graduate Student
 pic: profile_pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: "Hello! I'm Priyanka Sapkal, a graduate student in the Computer Engineering department at NYU. I'm always looking for 
-opportunities to collaborate and work in the field of Machine Learning because I'm motivated to solve real world problems by using it.<br /><br />
-Feel free to contact me if you would want to have a discussion with me. Click 
-<a href='https://github.com/priyanka-sapkal/online-cv/raw/master/assets/resume/Priyanka_Sapkal_Resume.pdf' 
+summary: Passionate Software Developer with 2+ years of experience in software engineering and machine learning, seeking to work in a highly productive, collaborative and fast-paced organization to develop bleeding edge softwares.Adept at fundamentals of datastructures, machine learning algorithms, software engineering and CI/CD practices<br /><br />
+Click <a href='https://github.com/priyanka-sapkal/online-cv/raw/master/assets/resume/Priyanka_Sapkal_Resume.pdf' 
 download='Priyanka_Sapkal_Resume'>here</a> to download a pdf version of my resume."
 awards: True
 
