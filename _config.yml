@@ -17,7 +17,7 @@ style: styles-2
 name: Priyanka Sapkal
 tagline: Graduate Student
 pic: profile_pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: Passionate Software Developer with 2+ years of experience in software engineering and machine learning, seeking to work in a highly productive, collaborative and fast-paced organization to develop bleeding edge softwares.Adept at fundamentals of datastructures, machine learning algorithms, software engineering and CI/CD practices<br /><br />
+summary: Passionate Software Developer with 2+ years of experience in software engineering and machine learning, seeking to work in a highly productive, collaborative and fast-paced organization to develop bleeding edge softwares. Adept at fundamentals of datastructures, machine learning algorithms, software engineering and CI/CD practices.<br /><br />
 Click <a href='https://github.com/priyanka-sapkal/online-cv/raw/master/assets/resume/Priyanka_Sapkal_Resume.pdf' 
 download='Priyanka_Sapkal_Resume'>here</a> to download a pdf version of my resume."
 awards: True
