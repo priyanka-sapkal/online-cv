@@ -6,7 +6,7 @@ about: False # set to False or comment line if you want to remove the "How to us
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-#style: styles-2
+style: styles-2
 #style: styles-3
 #style: styles-4
 #style: styles-5
@@ -24,12 +24,8 @@ awards: True
 
 #sidebar links
 email: pas571@nyu.edu
-#phone: 012 345 6789
-#website: rajputonsecurity.com #do not add http://
 linkedin: priyankasapkal
 github: priyanka-sapkal
-#facebook: priyanka.sapkal.378
-#twitter: '@starlordphr'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
